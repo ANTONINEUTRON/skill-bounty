@@ -1,0 +1,3 @@
+[submodule "solana-depin-skill"]
+	path = solana-depin-skill
+	url = https://github.com/titalabs/solana-depin-skill.git
